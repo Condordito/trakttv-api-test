@@ -1,0 +1,14 @@
+{
+  "name": "trakttv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Condordito",
+  "license": "ISC",
+  "dependencies": {
+    "trakt.tv": "^8.2.0"
+  },
+  "volta": {
+    "node": "22.12.0"
+  }
+}
